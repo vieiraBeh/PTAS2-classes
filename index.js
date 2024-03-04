@@ -1,3 +1,6 @@
+//Não me lembro de utilizar ou ter aprendido sobre getters e setters//
+//Brenda Nascimento Vieira 5B//
+
 class Usuarios{
     constructor(usuarioId, usuarioNickname, usuarioNome){
         this.usuarioId = usuarioId;
